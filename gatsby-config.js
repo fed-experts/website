@@ -32,13 +32,6 @@ module.exports = {
         implementation: require('sass'),
       },
     },
-    `gatsby-transformer-json`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `./data`,
-      },
-    },
     {
       resolve: 'gatsby-source-google-sheets',
       options: {
