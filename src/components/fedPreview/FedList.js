@@ -6,7 +6,7 @@ import FedPreview from './FedPreview';
 const FedList = (props) => {
   const feds = props.feds;
   const fedsComponents = feds.map((fed, index) => (
-    <FedPreview key={fed.id} {...fed} />
+    <FedPreview key={fed.id} {...fed} logos={props.logos}/>
   ));
 
   return (
