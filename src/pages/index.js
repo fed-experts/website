@@ -35,31 +35,31 @@ export const query = graphql`query {
       codepen
     }
   }
-  linkedInLogo: file(relativePath: { eq: "community/linkedIn.png" }) {
+  linkedInLogo: file(relativePath: { eq: "community/v2/linkedin.svg" }) {
     publicURL
   }
-  dribbleLogo: file(relativePath: { eq: "community/dribble.svg" }) {
+  dribbleLogo: file(relativePath: { eq: "community/v2/dribble.svg" }) {
     publicURL
   }
-  youtubeLogo: file(relativePath: { eq: "community/youtube.svg" }) {
+  youtubeLogo: file(relativePath: { eq: "community/v2/youtube.svg" }) {
     publicURL
   }
-  githubLogo: file(relativePath: { eq: "community/github.svg" }) {
+  githubLogo: file(relativePath: { eq: "community/v2/github.svg" }) {
     publicURL
   }
-  twitterLogo: file(relativePath: { eq: "community/twitter.svg" }) {
+  twitterLogo: file(relativePath: { eq: "community/v2/twitter.svg" }) {
     publicURL
   }
-  codepenLogo: file(relativePath: { eq: "community/codepen.png" }) {
+  codepenLogo: file(relativePath: { eq: "community/v2/codepen.svg" }) {
     publicURL
   }
-  facebookLogo: file(relativePath: { eq: "community/facebook.svg" }) {
+  facebookLogo: file(relativePath: { eq: "community/v2/facebook.svg" }) {
     publicURL
   }
-  mediumLogo: file(relativePath: { eq: "community/medium.png" }) {
+  mediumLogo: file(relativePath: { eq: "community/v2/medium.svg" }) {
     publicURL
   }
-  websiteLogo: file(relativePath: { eq: "community/website.png" }) {
+  websiteLogo: file(relativePath: { eq: "community/v2/website.svg" }) {
     publicURL
   }
 }`

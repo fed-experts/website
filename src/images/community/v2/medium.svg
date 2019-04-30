@@ -1,0 +1,13 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="none" y="0" x="0" width="24" id="Artboard12" height="24"/>
+  <rect id="svg_2" y="0.010788" x="0.044503" width="23.910995" height="23.910995"/>
+  <path id="svg_3" fill="#fff" d="m19.0403,6.785154l-3.697999,0l-2.631001,6.621l-2.99,-6.621l-3.951,0l0,0.329l1.392,1.700999l-0.019,6.570001l-1.376,1.878l0.003,0.310999l3.886001,0l0.009999,-0.285999l-1.628,-1.903l0.043,-5.317l3.433001,7.506l0.414,0l3.049,-7.683999l0,6.250001l-1.25,1.181999l0,0.251999l5.313,0l0,-0.302l-1.217999,-1.154999l-0.017,-7.946l1.234999,-1.055l0,-0.331z"/>
+ </g>
+</svg>
