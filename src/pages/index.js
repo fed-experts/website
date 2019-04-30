@@ -9,7 +9,6 @@ const IndexPage = (props) => {
   return (
     <Layout>
       <SEO title="Home" keywords={[`front-end`, `experts`]} />
-      <h1>FED Experts</h1>
       <FedList feds={props.data.allGoogleSheetSheet1Row.nodes} />
     </Layout>
   );
